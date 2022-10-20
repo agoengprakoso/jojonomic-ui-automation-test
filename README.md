@@ -1,1 +1,1 @@
-# jojonomic-ui-automation-test
+# jojonomic-web-automation
